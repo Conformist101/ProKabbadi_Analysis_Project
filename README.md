@@ -10,6 +10,21 @@ d.Predict the team with the highest points for successful tackles.<br>
 e.Predict the team with the highest super-performance total.<br>
 f.Predict the player with the highest SUCCESSFUL RAID percentage.<br>
 g.Predict the player with the highest SUCCESSFUL TACKLE percentage.<br>
+
+## Code-file :
+Team analysis data mapping:<br>
+Delhi Dabang : Team_data_analysis_DD<br>
+Bengal warriors: Team_data_analysis<br>
+UP-Yoddha: Team_data_analysis_UP<br>
+Bengaluru-bulls: Team_data_analysis_BB<br>
+U-mumba: Team_data_analysis_2<br>
+Telugu-Titans:Team_data_analysisTelT<br>
+patna-pirates: Team_data_analysis_PP<br>
+purani-paltan: Team_data_analysis_PurP<br>
+jaipur-pinkpanthers: Team_data_analysis_JPP<br>
+Gujrat-fortuneGiants: Team_data_analysis_GF<br>
+Hariyana-steelers: Team_data_analysis_HS<br>
+Tamil-Thalivas:Team_data_analysis_TamT<br>
  
 ### 1. Data Extraction: Sources and means of data extraction
 The main sources from where the data was procured was the Prokabbadi sites.
