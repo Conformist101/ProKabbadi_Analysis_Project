@@ -103,7 +103,7 @@ Thus considering this aspect it can be assumed that <b>U-mumba</b> will have his
 
 SPT total is calculated as per the following :
 S.P.T. = Total number of super-raids in the tournament + total number of super-tackles in the tournament
-+ total number of all-outs inflicted in the tournament - total number of all-outs conceded in the tournament
++ total number of all-outs inflicted in the tournament - total number of all-outs conceded in the tournament.<br>
 Using the above formulae following data is collected:<br>
 Delhi Dabang : 25<br>
 Bengal warriors: 36<br>
